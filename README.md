@@ -1,6 +1,6 @@
 # ‘Murderous, Unwarrantable, and Very Cold’: Killing and Extralegal Violence in the United States, 1783-1865
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jdh001-8pGzPyTDKBjR/main?filepath=JDH_Article.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jdh002-8pGzPyTDKBjR/main?filepath=JDH_Article.ipynb)
 
 ## Abstract
 
